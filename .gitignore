@@ -1,3 +1,10 @@
+# VS Code
+.vscode/
+
+# Build output
+ttf-chardump
+ttf-chardump.exe
+
 # Prerequisites
 *.d
 
